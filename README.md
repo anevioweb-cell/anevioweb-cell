@@ -13,7 +13,7 @@
 <a href="mailto:anevioweb@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/rahal-anas-595043385/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=anevioweb&label=Profile%20views&color=7C3AED&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=anevioweb-cell&label=Profile%20views&color=7C3AED&style=flat-square" />
 
 </div>
 
@@ -44,7 +44,7 @@ I'm also the founder of **Devoria**, my digital store where I sell ready-made we
 
 <div align="center">
 
-### 👉 [Browse the templates on Devoria](https://devoria.com)
+### 👉 [Browse the templates on Devoria](https://olive-sandpiper-799424.hostingersite.com/)
 
 </div>
 
@@ -86,8 +86,8 @@ I'm also the founder of **Devoria**, my digital store where I sell ready-made we
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anevioweb&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anevioweb&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anevioweb-cell&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anevioweb-cell&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
 </div>
 
 ---
