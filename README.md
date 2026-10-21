@@ -8,10 +8,10 @@
 
 <br/>
 
-<a href="https://devoria.com"><img src="https://img.shields.io/badge/Devoria-Template%20Store-7C3AED?style=for-the-badge&logo=shopify&logoColor=white" /></a>
+<a href="https://olive-sandpiper-799424.hostingersite.com/"><img src="https://img.shields.io/badge/Devoria-Template%20Store-7C3AED?style=for-the-badge&logo=shopify&logoColor=white" /></a>
 <a href="https://anevio-dz.com"><img src="https://img.shields.io/badge/Portfolio-anevio--dz.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="mailto:anevioweb@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/rahal-anas-595043385/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=anevioweb&label=Profile%20views&color=7C3AED&style=flat-square" />
 
